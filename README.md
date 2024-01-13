@@ -42,7 +42,7 @@
   <img width="90%" src="https://github-readme-stats.vercel.app/api?username=EngineerIbad&show_icons=true&theme=dark" />
 </p>
 
-<h3 align="center">Github@<a href="https://github.com/EngineerIbad">GetIbtesamAhmed</a></h3> 
+<h3 align="center">Github@<a href="https://github.com/EngineerIbad">EngineerIbad</a></h3> 
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=EngineerIbad&theme=dark" />
 </p> 
