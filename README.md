@@ -45,9 +45,9 @@
 <h3 align="center">Github@<a href="https://github.com/EngineerIbad">GetIbtesamAhmed</a></h3> 
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=EngineerIbad&theme=dark" />
-</p>
+</p> 
 
-[![@Ibad's Holopin board](https://holopin.io/api/user/board?user=ibad)](https://holopin.io/@ibad)
+<!-- [![@Ibad's Holopin board](https://holopin.io/api/user/board?user=ibad)](https://holopin.io/@ibad)-->
 
 
 <div align="center">
