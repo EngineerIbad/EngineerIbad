@@ -39,8 +39,7 @@
 </div>
 <h3 align="center">Github@<a href="https://github.com/EngineerIbad">EngineerIbad</a></h3> 
 <p align="center">
-<!--   <img width="90%" src="https://github-readme-stats.vercel.app/api?username=EngineerIbad&show_icons=true&theme=dark" /> -->
-  <img width="90%" src="[https://github-readme-stats.vercel.app/api?username=EngineerIbad&show_icons=true&theme=dark](https://camo.githubusercontent.com/720c8147a23f7d7298bf70603f69dde213380096a8f8c76d10ba9abbf7650089/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d456e67696e656572496261642673686f775f69636f6e733d74727565267468656d653d6461726b)" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=EngineerIbad&show_icons=true&theme=dark" />
 </p>
 
 <h3 align="center">Github@<a href="https://github.com/EngineerIbad">EngineerIbad</a></h3> 
