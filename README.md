@@ -22,10 +22,10 @@
 <br>
 <h2>🌐 Socials</h2>
 <br/>
-<a href="www.linkedin.com/in/software-engineer-muhammad-ibad">
+<a href="www.linkedin.com/in/software-engineer-muhammad-ibad" target="blank">
   <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-<a href="mailto:ibadamir3@gmail.com">
+<a href="mailto:ibadamir3@gmail.com" target="blank">
   <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
